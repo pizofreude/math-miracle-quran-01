@@ -127,5 +127,6 @@ The mathematical phenomena in the Qur'an provide an additional layer of its mira
 - **Host:** Blogging Theology, a platform discussing comparative religion by Paul Williams, a blogger and bibliophile based in London and the South of France.
 - **Contributors:** Dr. Shabir Ally, Dr. Louay Fatoohi, Brother Nouman Ali Khan, and other scholars who have contributed to this field.
 - **Audience:** Encouraged to explore and facts checking the discussed patterns using provided resources and maintain a balanced, critical approach.
+- **Fact-checking:** Yours truly Hafeez Pizofreude
 
 
